@@ -1,3 +1,11 @@
+/* Sebelum Upload Anda memerlukan Beberapa Lib dibawah ini 
+  ----------------------------------------------------------------------------------
+  AFMotor Library https://learn.adafruit.com/adafruit-motor-shield/library-install 
+  -----------------------------------------------------------------------------------
+  Cara Install Library 
+  Sketch >> Include Library >> Add .ZIP Library >> Pilih .Zip dari file diatas 
+  -----------------------------------------------------------------------------------
+*/
 #include <AFMotor.h>
 
 AF_DCMotor motor1(1);
